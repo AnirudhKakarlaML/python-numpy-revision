@@ -38,10 +38,13 @@ The goal is to rebuild strong programming fundamentals before moving on to Panda
 ```text
 python-numpy-revision/
 ├── python_basics/
-├── problem_solving/
+->variable
+->ds
+->strings
+->functions
+->oop
+->file handling
 ├── numpy/
-├── mini_projects/
-└── notes/
 ```
 
 ## Purpose
