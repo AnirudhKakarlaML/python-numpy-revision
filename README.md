@@ -44,6 +44,9 @@ python-numpy-revision/
 ->functions
 ->oop
 ->file handling
+->exception handling
+->list comprehensions
+
 ├── numpy/
 ```
 
